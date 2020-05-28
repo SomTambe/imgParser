@@ -1,4 +1,6 @@
 # imgParser
+This is the very beginning of Julia for me, therefore I archive this.
+
 imgParser is a very basic program written in Julia 1.2.0 .
 It parses the image in such a way that pixels above a particular threshold will be changed to black.
 It makes use of the package [Images](https://github.com/JuliaImages/Images.jl) and FileIO(with pre-required packages like ImageMagick and QuartzImageIO).
